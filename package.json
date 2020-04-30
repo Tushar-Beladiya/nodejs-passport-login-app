@@ -19,7 +19,7 @@
     "express-session": "^1.17.0",
     "git": "^0.1.5",
     "ifvisible.js": "^1.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.7.8",
     "multer": "^1.4.2",
     "passport": "^0.4.0",
